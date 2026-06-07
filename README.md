@@ -7,6 +7,8 @@ FEUP Heist is a 2D stealth game for the LCOM/Minix environment. The player contr
 
 [Watch the video demonstration](video/lcom_projeto_video_demo.mp4)
 
+> **Note:** Click on "View raw" to download the video file.
+
 ## Build and Run
 
 ```sh

@@ -1,0 +1,26 @@
+/* XPM */
+static xpm_row_t test_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1",
+"  c None",
+". c #000000",
+"X c #63FDE9",
+"o c #FFFFFF",
+/* pixels */
+"                ",
+"  XXXXXXXXXXXX  ",
+"  XooooooooooX  ",
+"  Xooo.o..o.oX  ",
+"  Xo..o.o.o.oX  ",
+"  XooooooooooX  ",
+"  Xo.o......oX  ",
+"  XooooooooooX  ",
+"  Xo.....o..oX  ",
+"  Xooooooo..oX  ",
+"  Xo..oooooooX  ",
+"  Xo.o..oo..oX  ",
+"  Xoooo..ooooX  ",
+"  XooooooooooX  ",
+"  XXXXXXXXXXXX  ",
+"                "
+};

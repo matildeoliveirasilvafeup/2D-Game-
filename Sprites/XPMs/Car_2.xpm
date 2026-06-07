@@ -1,0 +1,29 @@
+/* XPM */
+static char *car_2_xpm[] = {
+"20 12 11 1",
+/* colors */
+"  c None",
+". c #111111",
+"c c #88CCFF",
+"a c #DD3311",
+"i c #FF6644",
+"# c #CC2200",
+"e c #0D0D0D",
+"f c #555555",
+"b c #AA1800",
+"h c #CCCCCC",
+"j c #222222",
+/* pixels */
+"                    ",
+"                    ",
+"    ..........      ",
+"    .cccacccc.      ",
+" ................   ",
+" .aaaaaaaaaaaaaa.i  ",
+"i.##############.i  ",
+"i.#eee#######eee.ii ",
+"i.efffebbbbbefffeii ",
+" efh.hfe...efh.hfe  ",
+" ejjjjjjjjjjjjjjje  ",
+" efh hfe   efh hfe  "
+};

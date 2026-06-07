@@ -1,0 +1,11 @@
+# Compiled objects
+*.o
+*.o-*
+
+# Core dumps (Minix crash files)
+core.*
+
+# Build artifacts
+*.a
+*.so
+proj

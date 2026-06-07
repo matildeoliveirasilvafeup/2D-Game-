@@ -1,0 +1,62 @@
+Question 1
+What is the specific term used for the scancode generated when a keyboard key is released?
+	A) Make code (Incorrect)
+	B) Break code (Correct)
+	C) Overlap code (Incorrect)
+	D) Serial code (Incorrect)
+
+Question 2
+When implementing double buffering for computer graphics, what is the primary purpose of synchronizing the frame buffer swap (or copy) with the vertical retrace interval?
+	A) To eliminate visual artifacts such as screen tearing. (Correct)
+	B) To compress the image data in Video RAM (VRAM). (Incorrect)
+	C) To increase the hardware refresh rate of the monitor. (Incorrect)
+	D) To convert raster graphics objects into vector paths. (Incorrect)
+
+Question 3
+Which register is used to select the VBE video mode?
+	A) AX (Correct)
+	B) BX (Incorrect)
+	C) CX (Incorrect)
+	D) DX (Incorrect)
+
+Question 4
+What does the acronym RTC stand for?
+	A) Real Time Clock (Correct)
+	B) Rapid Transfer Cache (Incorrect)
+	C) Register Transfer Cycle (Incorrect)
+	D) Random Timing Circuit (Incorrect)
+
+Question 5
+Which IRQ line does the keyboard use?
+	A) IRQ 0 (Incorrect)
+	B) IRQ 1 (Correct)
+	C) IRQ 2 (Incorrect)
+	D) IRQ 12 (Incorrect)
+
+Question 6
+Which IRQ line does the mouse use?
+	A) IRQ 1 (Incorrect)
+	B) IRQ 4 (Incorrect)
+	C) IRQ 12 (Correct)
+	D) IRQ 14 (Incorrect)
+
+Question 7
+What is the primary purpose of double buffering in graphics rendering?
+	A) Increase VRAM size (Incorrect)
+	B) Prevent screen tearing (Correct)
+	C) Speed up the CPU clock (Incorrect)
+	D) Reduce mouse latency (Incorrect)
+
+Question 8
+How many bytes are contained in a standard data packet sent by the mouse to report its movement and button events to the KBC?
+	A) 1 byte (Incorrect)
+	B) 2 bytes (Incorrect)
+	C) 3 bytes (Correct)
+	D) 4 bytes (Incorrect)
+
+Question 9
+Which Minix function is used to subscribe to timer interrupts?
+	A) sys_irqsetpolicy (Incorrect)
+	B) timer_subscribe_int (Correct)
+	C) kbd_subscribe_int (Incorrect)
+	D) vbe_set_mode (Incorrect)

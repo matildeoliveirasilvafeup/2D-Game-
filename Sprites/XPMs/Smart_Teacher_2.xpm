@@ -1,0 +1,30 @@
+/* XPM */
+static xpm_row_t smart_teacher_2_xpm[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 8 1",
+"  c None",
+". c #000000",
+"X c #313131",
+"o c #44310B",
+"O c #FF0000",
+"+ c #EA5C5C",
+"@ c #BFB26D",
+"# c #DDDDDD",
+/* pixels */
+"          @@@   ",
+"         .@@@.  ",
+"        @@.@.@@ ",
+"   #####@@+@+@@ ",
+"@###  ##@@@@@@@ ",
+"     ##O#@...@  ",
+"     #O##@...@  ",
+"     #O# #      ",
+"     XXX #      ",
+"    XX XX #     ",
+"   XX   XX#     ",
+"  XX     X#     ",
+"  XX     X@     ",
+"  oo     oo     ",
+"  ooooo  ooooo  ",
+"     ooo    oooo"
+};
